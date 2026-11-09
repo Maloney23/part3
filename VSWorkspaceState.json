@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RaceDay.API",
+    "\\RaceDay.API\\Controllers",
+    "\\RaceDay.API\\Data",
+    "\\RaceDay.API\\Models"
+  ],
+  "SelectedNode": "\\RaceDay.API\\Controllers\\EventsController.cs",
+  "PreviewInSolutionExplorer": false
+}
